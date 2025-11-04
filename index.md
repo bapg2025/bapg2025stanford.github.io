@@ -1,6 +1,15 @@
 ---
 title: BAPG Fall 2025 
 ---
+<style>
+    .sponsor {
+        text-align: center;
+    }
+    .sponsor img {
+        width: 100%;
+        max-width: 800px;
+    }
+</style>
 
 ## Stanford, Dec 6 2025
 
