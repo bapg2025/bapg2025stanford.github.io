@@ -45,6 +45,6 @@ Welcome to the site for the 24th Bay Area Population Genomics (#BAPGXXIV) Confer
 
 #### **2:10-2:30**: Break
 
-#### **2:30-3:00**: Keynote Talk - Brenna Henn, UC Davis
+#### **2:30-3:00**: Keynote Talk - Brenna Henn, UC Davis - Our Origins in Africa
 
 #### **3:00-5:00**: Poster session and happy hour 
