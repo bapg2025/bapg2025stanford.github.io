@@ -32,7 +32,7 @@ Welcome to the site for the 24th Bay Area Population Genomics (#BAPGXXIV) Confer
 #### **11:00-12:00**: Talk Session 2 - Moderator: Shreyas Gopalakrishnanm, Stanford University
 * 11:00-11:15: **Ribosome heterogeneity arising from common and rare rRNA sequence variants affects diverse human phenotypes** - Daphna Rothschild, Stanford Postdoc, Barna and Pritchard Labs
 * 11:15-11:30: **Understanding brain evolution and psychiatric disease risk through the lens of Neanderthal divergence** - Yaen Chen, UC San Francisco Graduate Student, Capra Lab
-* 11:30-11:45: **High-resolution mapping of a rapidly evolving complex trait reveals genotype-phenotype stability and an unpredictable genetic architecture of adaptation** - Jess Rhodes, Stanford Graduate Student, Petrov Lab
+* 11:30-11:45: **High-resolution mapping of a rapidly evolving complex trait reveals genotype-phenotype stability and an unpredictable genetic architecture of adaptation** - Jess Smiley-Rhodes, Stanford Graduate Student, Petrov Lab
 * 11:45-12:00: **Genetic and environmental basis of Allen’s rule in tropical and temperate house mice (Mus musculus domesticus).** Sylvia Durkin, UC Berkeley Graduate Student, Nachman Lab 
 
 #### **12:00-1:10**: Lunch
