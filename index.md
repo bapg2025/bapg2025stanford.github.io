@@ -87,6 +87,6 @@ environments across S. cerevisiae natural isolates**-Shaili Mathur, Stanford Uni
 * **Bioniformatic BamoriMasc**-Anton Taylor, San Francisco State University
 * **Genomic investigation of sex-specific differences in white shark reproductive behavior**-Raksha Doddabele, Stanford University, Block Lab
 * **Point-Cloud Local Ancestry Inference (PCLAI): Coordinate-based Ancestry Along the Genome**-Margarita Geleta, UC Berkeley, Ioannidis Lab
+* **Balanced polymorphism in a key flowering MYB transcription factor controls a daily rhythm of alternating sexes in avocado and wild relatives**, Jeffrey Groh, UC Berkeley, Whiteman and Blackman Labs
 * TBD, Natasha Dhamrait, UC Davis, Ross-Ibarra Lab
 * TBD, Jules Perez, UC Berkeley, Moi Lab
-* TBD, Jeffrey Groh, UC Berkeley, Whiteman and Blackman Labs
