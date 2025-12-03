@@ -76,7 +76,8 @@ Welcome to the site for the 24th Bay Area Population Genomics (#BAPGXXIV) Confer
 * **Uncovering Genomic Diversity in the African Diaspora via Long-Read Nanopore Sequencing**-Francisco De La Vega, Stanford University
 * **Studying the long-term evolutionary dynamics of transposable elements**-Sneha Chakraborty, UC Los Angeles
 * **Predicting genotype from phenotype in HIV capsid & integrase**-Daniel Lyons, UC San Francisco, Phillips Lab
-* **Physiological trade-offs underlying history-dependent fitness effects in fluctuating environments**-Shaili Mathur, Stanford University, Cremer and Petrov Labs
+* **Compensatory environmental memory in fluctuating
+environments across S. cerevisiae natural isolates**-Shaili Mathur, Stanford University, Cremer and Petrov Labs
 * **Enumeration of rooted binary perfect phylogenies**-Chloe Shiff, Stanford Univeristy Rosenberg Lab
 * **Determining genes causing hybrid incompatibility by merging AMH-specific variants with regions purged of Neanderthal ancestry**-Manuel Ferrando-Bernal, UC San Francisco, Capra Lab
 * **Molecular Evolution of Plant Photoreceptors in Mediterranean Arabidopsis**-Jinseul Kyung, UC Berkeley, Moi Lab
