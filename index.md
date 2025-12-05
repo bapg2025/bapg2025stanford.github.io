@@ -77,7 +77,6 @@ Welcome to the site for the 24th Bay Area Population Genomics (#BAPGXXIV) Confer
 * **Predicting genotype from phenotype in HIV capsid & integrase**-Daniel Lyons, UC San Francisco, Phillips Lab
 * **Compensatory environmental memory in fluctuating environments across S. cerevisiae natural isolates**-Shaili Mathur, Stanford University, Cremer and Petrov Labs
 * **Enumeration of rooted binary perfect phylogenies**-Chloe Shiff, Stanford Univeristy Rosenberg Lab
-* **Determining genes causing hybrid incompatibility by merging AMH-specific variants with regions purged of Neanderthal ancestry**-Manuel Ferrando-Bernal, UC San Francisco, Capra Lab
 * **Molecular Evolution of Plant Photoreceptors in Mediterranean Arabidopsis**-Jinseul Kyung, UC Berkeley, Moi Lab
 * **Revisiting the evolution of lactase persistence: insights from South Asian genomes**-Meaghan Marohn, UC Berkeley Moorjani Lab
 * **Investigating Heterozygosity Based Sex Determination in Lepidoptera**-Walter Isaac, San Francisco State University, Roy Lab
