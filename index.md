@@ -48,6 +48,7 @@ Welcome to the site for the 24th Bay Area Population Genomics (#BAPGXXIV) Confer
 #### **2:30-3:00**: Keynote Talk - Brenna Henn, UC Davis - Our Origins in Africa
 
 #### **3:00-5:00**: Poster session and happy hour 
+* **Human-specific alleles Behind Hybrid Incompatibility with Archaics**-Manuel Ferrando-Bernal, Capra's Lab
 * **Buffering and non-monotonic behavior of gene dosage response curves for human complex traits**-Nikhil Milind, Stanford University, Pritchard Lab
 * **The genetic basis of two melanic pigmentation patterns in Xiphophorus nezahualcoyotl**-Lyle Given, Stanford University, Schumer Lab
 * **Mitonuclear Incompatibilities in Swordtail Fish (Xiphophorus) Hybrids**-Nemo Robles, Stanford University, Schumer Lab
