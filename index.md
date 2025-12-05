@@ -51,7 +51,6 @@ Welcome to the site for the 24th Bay Area Population Genomics (#BAPGXXIV) Confer
 * **Buffering and non-monotonic behavior of gene dosage response curves for human complex traits**-Nikhil Milind, Stanford University, Pritchard Lab
 * **The genetic basis of two melanic pigmentation patterns in Xiphophorus nezahualcoyotl**-Lyle Given, Stanford University, Schumer Lab
 * **Mitonuclear Incompatibilities in Swordtail Fish (Xiphophorus) Hybrids**-Nemo Robles, Stanford University, Schumer Lab
-* **Human-specific alleles Behind Hybrid Incompatibility with Archaics**-Manuel Ferrando-Bernal, Capra's Lab
 * **Evolution of the wRi Genome from 1984 to 2023**-Elyse Mina, UC Santa Cruz, Russell Symbiosis Lab
 * **Can we bring evolution environments into the lab?**-Milo Johnson,UC Berkeley/LBNL, Koskella and Deutschbauer Labs
 * **Development of transgenic primary cell lines from swordtail fish, a non-model organism**-Alyssa Kaatmann, Stanford University, Schumer lab
@@ -76,8 +75,7 @@ Welcome to the site for the 24th Bay Area Population Genomics (#BAPGXXIV) Confer
 * **Uncovering Genomic Diversity in the African Diaspora via Long-Read Nanopore Sequencing**-Francisco De La Vega, Stanford University
 * **Studying the long-term evolutionary dynamics of transposable elements**-Sneha Chakraborty, UC Los Angeles
 * **Predicting genotype from phenotype in HIV capsid & integrase**-Daniel Lyons, UC San Francisco, Phillips Lab
-* **Compensatory environmental memory in fluctuating
-environments across S. cerevisiae natural isolates**-Shaili Mathur, Stanford University, Cremer and Petrov Labs
+* **Compensatory environmental memory in fluctuating environments across S. cerevisiae natural isolates**-Shaili Mathur, Stanford University, Cremer and Petrov Labs
 * **Enumeration of rooted binary perfect phylogenies**-Chloe Shiff, Stanford Univeristy Rosenberg Lab
 * **Determining genes causing hybrid incompatibility by merging AMH-specific variants with regions purged of Neanderthal ancestry**-Manuel Ferrando-Bernal, UC San Francisco, Capra Lab
 * **Molecular Evolution of Plant Photoreceptors in Mediterranean Arabidopsis**-Jinseul Kyung, UC Berkeley, Moi Lab
